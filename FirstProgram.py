@@ -87,3 +87,6 @@ for ip_address in devices_list:
 
 # Done with all devices and writing the file, so close
 version_file_out.close()
+
+#
+#
